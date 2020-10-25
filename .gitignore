@@ -1,0 +1,5 @@
+venv
+compiled_asm
+executable
+temp.py
+.idea
